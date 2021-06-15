@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
 	"cosmosdbname": {
-            "value": "vijayjavacosmos"
+            "value": "vibhorjavacosmos"
         },
         "location": {
             "value": "eastus"
@@ -17,17 +17,17 @@
         "isZoneRedundant": {
             "value": "false"
         },
-	"subscriptionId": {
-            "value": "c5e95693-4d23-4d5c-ad8d-904f30699ecc"
+        "subscriptionId": {
+            "value": "203088f1-0003-4f4e-811f-38a5d10d5077"
         },
         "appservicename": {
-            "value": "vijayjavacosmos"
+            "value": "vibhorjavacosmos"
         },
         "hostingPlanName": {
-            "value": "vijayjavacosmos"
+            "value": "vibhorjavacosmos"
         },
         "serverFarmResourceGroup": {
-            "value": "vijayjavacosmos"
+            "value": "vibhorjavacosmos"
         },
         "alwaysOn": {
             "value": true
