@@ -7,15 +7,15 @@ on:
     - readmedtrigger.md
 
 env:
-  AZURE_WEBAPP_NAME: "vijayexpresscosmosdb"    # set this to your application's name
+  AZURE_WEBAPP_NAME: "vibhorexpresscosmosdb"    # set this to your application's name
   AZURE_WEBAPP_PACKAGE_PATH: "Application"      # set this to the path to your web app project, defaults to the repository root
   NODE_VERSION: '8.11.1'                # set this to the node version to use
-  RESOURCEGROUPNAME: "vijayexpresscosmosdb"
+  RESOURCEGROUPNAME: "vibhorexpresscosmosdb"
   LOCATION: "East US"
-  HOSTINGPLANNAME: "vijayexpresscosmosdb"
+  HOSTINGPLANNAME: "vibhorexpresscosmosdb"
   APPINSIGHTLOCATION: "East US"
   SKU: "S1 Standard"
-  DATABASEACCOUNTID: "vijayexpresscosmosdb"
+  DATABASEACCOUNTID: "vibhorexpresscosmosdb"
   DATABASEACCOUNTLOCATION: "eastus"
 
 jobs:
